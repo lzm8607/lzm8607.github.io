@@ -87,19 +87,19 @@ body {
 
 @media screen and (min-width: 1200px) {
     .warp {
-        width: 1030px;
+        width: 1000px;
     }
 }
 
 @media screen and (max-width:1199px) and (min-width: 992px) {
     .warp {
-        width: 970px;
+        width: 992px;
     }
 
 }
 
 @media screen and (max-width:991px){
     .warp {
-        width: 750px;
+        width: 100%;
     }
 }
